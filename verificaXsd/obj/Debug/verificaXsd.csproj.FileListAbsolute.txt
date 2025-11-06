@@ -1,0 +1,8 @@
+C:\Users\gahia\OneDrive\Desktop\sipito\verificaXsd\verificaXsd\obj\Debug\verificaXsd.csproj.AssemblyReference.cache
+C:\Users\gahia\OneDrive\Desktop\sipito\verificaXsd\verificaXsd\obj\Debug\verificaXsd.csproj.CoreCompileInputs.cache
+C:\Users\gahia\OneDrive\Desktop\sipito\verificaXsd\verificaXsd\bin\Debug\verificaXsd.exe.config
+C:\Users\gahia\OneDrive\Desktop\sipito\verificaXsd\verificaXsd\bin\Debug\verificaXsd.exe
+C:\Users\gahia\OneDrive\Desktop\sipito\verificaXsd\verificaXsd\bin\Debug\verificaXsd.pdb
+C:\Users\gahia\OneDrive\Desktop\sipito\verificaXsd\verificaXsd\obj\Debug\verificaXsd.exe
+C:\Users\gahia\OneDrive\Desktop\sipito\verificaXsd\verificaXsd\obj\Debug\verificaXsd.pdb
+C:\Users\gahia\OneDrive\Desktop\sipito\verificaXsd\verificaXsd\obj\Debug\verificaXsd.exe.config
